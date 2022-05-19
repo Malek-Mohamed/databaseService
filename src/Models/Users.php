@@ -12,6 +12,6 @@ class Users extends Model
 
     public static function test()
     {
-        echo 'this is test from Package V2';
+        echo 'this is test current Version 0.0.3';
     }
 }
